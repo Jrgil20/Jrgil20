@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JesusRgil20ucab student in computer engineering
+- 👋 Hi, I’m @JRgil20 student in computer engineering
 <br>
 - 👀 I’m interested in cybersecurity
 <br>

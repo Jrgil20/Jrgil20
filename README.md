@@ -2,9 +2,9 @@
 <br>
 - 👀 I’m interested in cybersecurity
 <br>
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning bootstrap
 <br>
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on websites
 <br>
 - 📫 contact:
  likedin.com/in/jesusgil-engineer

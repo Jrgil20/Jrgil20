@@ -33,9 +33,6 @@ Puedes contactarme en LinkedIn: [linkedin.com/in/jesusgil-engineer](linkedin.com
 
 Es importante tener en cuenta que las estadísticas proporcionadas por terceros pueden no ser exactas y no reflejan necesariamente la información oficial de GitHub.
 
-## Estadísticas de Wakatime
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JRgil20)
-
 <!---
 Jrgil20ucab/Jrgil20ucab es un repositorio ✨ especial ✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
 Puedes hacer clic en el enlace "Preview" para ver tus cambios.

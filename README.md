@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy @JRgil20
+# 👋 ¡Hola! Soy Jesus GIL (@JRgil20) 
 
 Estudiante de ingeniería informática con interés en la ciberseguridad. Actualmente estoy aprendiendo Bootstrap y busco colaborar en proyectos de desarrollo web.
 
@@ -29,6 +29,7 @@ Busco colaborar en proyectos de desarrollo web, especialmente en los siguientes 
 Puedes contactarme en LinkedIn: [linkedin.com/in/jesusgil-engineer](linkedin.com/in/jesusgil-engineer)
 
 ## Estadísticas de GitHub
+Es importante tener en cuenta que las estadísticas proporcionadas por terceros pueden no ser exactas y no reflejan necesariamente la información oficial de GitHub. 
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JRgil20&show_icons=true)
 
 

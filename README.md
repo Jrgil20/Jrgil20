@@ -30,7 +30,6 @@ Puedes contactarme en LinkedIn: [linkedin.com/in/jesusgil-engineer](linkedin.com
 
 ## Estadísticas de GitHub
 Es importante tener en cuenta que las estadísticas proporcionadas por terceros pueden no ser exactas y no reflejan necesariamente la información oficial de GitHub.
-
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JRgil20&show_icons=true)
 
 

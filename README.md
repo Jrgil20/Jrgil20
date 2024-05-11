@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy Jesus GIL (@JRgil20) 
 
-Estudiante de ingeniería informática con interés en la ciberseguridad. Actualmente estoy aprendiendo svelte y busco colaborar en proyectos de desarrollo web.
-
+Estudiante de ingeniería informática con interés en la ciberseguridad. Esta es mi cuenta academica
 ## Intereses
 Me interesa la ciberseguridad.
 

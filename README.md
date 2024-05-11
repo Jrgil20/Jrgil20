@@ -1,10 +1,36 @@
-- 👋 ¡Hola! Soy @JRgil20, estudiante de ingeniería informática.
-- 👀 Me interesa la ciberseguridad.
-- 🌱 Actualmente estoy aprendiendo Bootstrap.
-- 💞️ Busco colaborar en proyectos de desarrollo web.
-- 📫 Puedes contactarme en LinkedIn: linkedin.com/in/jesusgil-engineer
+# 👋 ¡Hola! Soy @JRgil20
 
+Estudiante de ingeniería informática con interés en la ciberseguridad. Actualmente estoy aprendiendo Bootstrap y busco colaborar en proyectos de desarrollo web.
+
+## Intereses
+Me interesa la ciberseguridad.
+
+## Aprendizaje actual
+Actualmente estoy aprendiendo:
+- Bootstrap
+- Herramientas web
+- Express.js
+
+
+## Colaboración
+Busco colaborar en proyectos de desarrollo web, especialmente en los siguientes tipos:
+
+- Sitios web responsivos
+- Aplicaciones web interactivas
+- Diseño de interfaces de usuario
+- Desarrollo de tiendas en línea
+- Implementación de sistemas de gestión de contenido (CMS)
+- Integración de APIs y servicios web
+- Optimización de rendimiento web
+- Seguridad y protección de datos en aplicaciones web
+- Desarrollo de aplicaciones móviles basadas en web
+
+## Contacto
+Puedes contactarme en LinkedIn: [linkedin.com/in/jesusgil-engineer](linkedin.com/in/jesusgil-engineer)
+
+## Estadísticas de GitHub
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JRgil20&show_icons=true)
+
 
 <!---
 Jrgil20ucab/Jrgil20ucab es un repositorio ✨ especial ✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.

@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jesus GIL (@JRgil20) 
 
-Estudiante de ingeniería informática con interés en la ciberseguridad. Actualmente estoy aprendiendo Bootstrap y busco colaborar en proyectos de desarrollo web.
+Estudiante de ingeniería informática con interés en la ciberseguridad. Actualmente estoy aprendiendo svelte y busco colaborar en proyectos de desarrollo web.
 
 ## Intereses
 Me interesa la ciberseguridad.
@@ -8,6 +8,7 @@ Me interesa la ciberseguridad.
 ## Aprendizaje actual
 Actualmente estoy aprendiendo:
 - Bootstrap
+- svelte
 - Herramientas web
 - Express.js
 

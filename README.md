@@ -6,8 +6,7 @@ Me interesa la ciberseguridad.
 
 ## Aprendizaje actual
 Actualmente estoy aprendiendo:
-- Bootstrap
-- svelte
+- github
 - Herramientas web
 - Express.js
 

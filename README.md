@@ -18,16 +18,16 @@ Actualmente estoy aprendiendo:
 - Go (intentando aprender Golang por mi cuenta)
 
 ## Colaboración
-Busco colaborar en proyectos de desarrollo web, especialmente en los siguientes tipos:
+Me encataria colaborar en proyectos con las siguientes caracteristicas
 
-- Implementación de sistemas de gestión de contenido (CMS)
-- Integración de APIs y servicios web
-- Optimización de rendimiento web
-- Seguridad y protección de datos en aplicaciones web
-- Proyectos de aprendizaje 
+- OpenSource
+- Sin fines de lucro
+- Indole Educativo 
+- Que tengan un impacto positivo en la comunidad
+- Que fomenten el aprendizaje y crecimiento profesional
 
 ## Contacto
-mis métodos de contacto acá: [taplink.cc/JesusGil](https://taplink.cc/JesusGil)
+mis métodos de contacto se encuentran en el sig enlace: [taplink.cc/JesusGil](https://taplink.cc/JesusGil)
 
 ## Estadísticas de GitHub
 <div align="center">

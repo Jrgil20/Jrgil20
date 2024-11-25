@@ -1,31 +1,30 @@
 # 👋 ¡Hola! Soy Jesus GIL (@JRgil20) 
 
-Estudiante de ingeniería informática con interés en la ciberseguridad. Esta es mi cuenta academica
+Estudiante de ingeniería informática con interés en Backend, ciberseguridad, devops,etc.
+Esta es mi cuenta académica. Aquí encontrarás proyectos de índole académico, notas como estudiante y recursos de aprendizaje.
+
 ## Intereses
-Me interesa la ciberseguridad.
+- Me interesa la ciberseguridad.
+- Me interesa el desarrollo de software y aplicaciones de escritorio.
+- me interesa mucho la programacion competitiva.
 
 ## Aprendizaje actual
 Actualmente estoy aprendiendo:
-- github
-- Herramientas web
-- Express.js
-
+- Web 3
+- Github
+- Go
 
 ## Colaboración
 Busco colaborar en proyectos de desarrollo web, especialmente en los siguientes tipos:
 
-- Sitios web responsivos
-- Aplicaciones web interactivas
-- Diseño de interfaces de usuario
-- Desarrollo de tiendas en línea
 - Implementación de sistemas de gestión de contenido (CMS)
 - Integración de APIs y servicios web
 - Optimización de rendimiento web
 - Seguridad y protección de datos en aplicaciones web
-- Desarrollo de aplicaciones móviles basadas en web
+- Proyectos de aprendizaje 
 
 ## Contacto
-Puedes contactarme en LinkedIn: [linkedin.com/in/jesusgil-engineer](linkedin.com/in/jesusgil-engineer)
+Puedes contactarme en LinkedIn: [linkedin.com](https://www.linkedin.com/in/jesusgil-engineer/)
 
 ## Estadísticas de GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRgil20) ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JRgil20&show_icons=true)

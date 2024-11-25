@@ -2,7 +2,7 @@
 
 Estudiante de ingeniería informática con interés en Backend, ciberseguridad, devops,etc.
 
-Esta es mi cuenta académica. Aquí encontrarás proyectos de índole académico, notas como estudiante y recursos de aprendizaje.
+Esta es mi cuenta académica. Aquí encontrarás proyectos de índole académico, notas (aputes relevantes) y recursos de aprendizaje.
 
 Si quieren revisar mi cuenta personal pueden ir a [JRGIL12](https://github.com/JRGIL12)
 

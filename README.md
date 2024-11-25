@@ -13,9 +13,9 @@ Si quieren revisar mi cuenta personal pueden ir a [JRGIL12](https://github.com/J
 
 ## Aprendizaje actual
 Actualmente estoy aprendiendo:
-- Web 3
-- Github
-- Go
+- Web 3 (Cursando Diplomado en Desarrollo Blockchain y Web 3)
+- Github (En proceso de preparación para certificación de Github foundations)
+- Go (intentando aprender Golang por mi cuenta)
 
 ## Colaboración
 Busco colaborar en proyectos de desarrollo web, especialmente en los siguientes tipos:
@@ -30,7 +30,16 @@ Busco colaborar en proyectos de desarrollo web, especialmente en los siguientes 
 mis métodos de contacto acá: [taplink.cc/JesusGil](https://taplink.cc/JesusGil)
 
 ## Estadísticas de GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRgil20) ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JRgil20&show_icons=true)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=JRgil20&theme=midnight-purple&show_icons=1&hide_border=1" 
+             alt="JRgil20's GitHub Stats"
+             height="160"
+    /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRgil20&theme=midnight-purple&show_icons=1&hide_border=1&layout=compact"
+             alt="JRgil20's Top Languages"
+             height="160"
+    />
+</div>
 
 Es importante tener en cuenta que las estadísticas proporcionadas por terceros pueden no ser exactas y no reflejan necesariamente la información oficial de GitHub.
 

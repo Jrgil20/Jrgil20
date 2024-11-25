@@ -27,7 +27,7 @@ Busco colaborar en proyectos de desarrollo web, especialmente en los siguientes 
 - Proyectos de aprendizaje 
 
 ## Contacto
-Puedes contactarme en LinkedIn: [linkedin.com](https://www.linkedin.com/in/jesusgil-engineer/)
+mis métodos de contacto acá: [taplink.cc/JesusGil](https://taplink.cc/JesusGil)
 
 ## Estadísticas de GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRgil20) ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JRgil20&show_icons=true)

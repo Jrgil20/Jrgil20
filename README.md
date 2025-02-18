@@ -2,14 +2,14 @@
 
 Estudiante de ingeniería informática con interés en Backend, ciberseguridad, devops,etc.
 
-Esta es mi cuenta académica. Aquí encontrarás proyectos de índole académico, notas (aputes relevantes) y recursos de aprendizaje.
+Esta es mi cuenta académica. Aquí encontrarás proyectos de índole académico, notas (apuntes relevantes) y recursos de aprendizaje.
 
 Si quieren revisar mi cuenta personal pueden ir a [JRGIL12](https://github.com/JRGIL12)
 
 ## Intereses
-- Me interesa la ciberseguridad.
-- Me interesa el desarrollo de software y aplicaciones de escritorio.
-- me interesa mucho la programacion competitiva.
+- Me interesa la Ciberseguridad.
+- Me interesa el Desarrollo de Software y aplicaciones de escritorio.
+- me interesa mucho la Programacion Competitiva.
 
 ## Aprendizaje actual
 Actualmente estoy aprendiendo:
@@ -18,7 +18,7 @@ Actualmente estoy aprendiendo:
 - Go (intentando aprender Golang por mi cuenta)
 
 ## Colaboración
-Me encataria colaborar en proyectos con las siguientes caracteristicas
+Me encantaria colaborar en proyectos con las siguientes caracteristicas
 
 - OpenSource
 - Sin fines de lucro
@@ -41,8 +41,8 @@ mis métodos de contacto se encuentran en el sig enlace: [taplink.cc/JesusGil](h
   </a>
 </div>
 
+## Tecnologías y herramientas
 
-## Estadísticas de GitHub
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
@@ -65,7 +65,8 @@ mis métodos de contacto se encuentran en el sig enlace: [taplink.cc/JesusGil](h
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
 </div>
 
-###
+
+## Estadísticas de GitHub
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=JRgil20&theme=midnight-purple&show_icons=1&hide_border=1" 

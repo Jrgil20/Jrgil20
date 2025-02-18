@@ -17,14 +17,13 @@ Actualmente estoy aprendiendo:
 - Github (En proceso de preparación para certificación de Github foundations)
 - Go (intentando aprender Golang por mi cuenta)
 
-## Colaboración
-Me encantaria colaborar en proyectos con las siguientes caracteristicas
+## 🤝 ¿Colaboramos?  
+Busco contribuir en proyectos **open-source** que:  
+- 🎯 Tengan impacto social o educativo (ej: herramientas para educación, seguridad digital, blockchain ético).  
+- 🛠️ Usen tecnologías como **Go, Python, Docker, TypeScript, o PostgreSQL**.  
+- 💡 Fomenten buenas prácticas (tests, CI/CD, documentación clara).  
 
-- OpenSource
-- Sin fines de lucro
-- Indole Educativo 
-- Que tengan un impacto positivo en la comunidad
-- Que fomenten el aprendizaje y crecimiento profesional
+**¿Tienes una idea?** ¡Hablemos! 👇  
 
 ## Contacto
 mis métodos de contacto se encuentran en el sig enlace: [taplink.cc/JesusGil](https://taplink.cc/JesusGil)

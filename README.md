@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 ¡Hola! Soy Jesus GIL (@JRgil20) 
 
 Estudiante de ingeniería informática con interés en Backend, ciberseguridad, devops,etc.
@@ -80,6 +82,7 @@ mis métodos de contacto se encuentran en el sig enlace: [taplink.cc/JesusGil](h
 
 Es importante tener en cuenta que las estadísticas proporcionadas por terceros pueden no ser exactas y no reflejan necesariamente la información oficial de GitHub.
 
+</div>
 <!---
 Jrgil20ucab/Jrgil20ucab es un repositorio ✨ especial ✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
 Puedes hacer clic en el enlace "Preview" para ver tus cambios.

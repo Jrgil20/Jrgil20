@@ -2,8 +2,6 @@
 
 # 👋 ¡Hola! Soy Jesus GIL (@JRgil20) 
 
-Estudiante de ingeniería informática con interés en Backend, ciberseguridad, devops,etc.
-
 Esta es mi cuenta académica. Aquí encontrarás proyectos de índole académico, notas (apuntes relevantes) y recursos de aprendizaje.
 
 Si quieren revisar mi cuenta personal pueden ir a [JRGIL12](https://github.com/JRGIL12)

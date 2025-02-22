@@ -19,10 +19,10 @@ Me interesa mucho la Programacion Competitiva.
 | Golang            | 🔴 Autodidacta (Libros + documentación) | Próximamente: |
 
 ## 🤝 ¿Colaboramos?  
-Busco contribuir en proyectos **open-source** que:  
-🎯 Tengan impacto social o educativo (ej: herramientas para educación, seguridad digital, blockchain ético).  
-🛠️ Usen tecnologías como **Go, Python, Docker, TypeScript, o PostgreSQL**.  
-💡 Fomenten buenas prácticas (tests, CI/CD, documentación clara).  
+Busco contribuir en proyectos **open-source** que tengan las siguientes características:  
+🌍 **Impacto social/educativo**: Herramientas para educación digital, seguridad informática accesible, etc.    
+🛠️ **Pila tecnológica**: Go, Python, TypeScript, Docker, PostgreSQL.  
+💡 **Fomenten buenas prácticas**:  tests, CI/CD, documentación clara.  
 
 **¿Tienes una idea?** ¡Hablemos! 👇  
 

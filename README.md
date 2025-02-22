@@ -7,14 +7,14 @@ Esta es mi cuenta académica. Aquí encontrarás proyectos de índole académico
 Si quieren revisar mi cuenta personal pueden ir a [JRGIL12](https://github.com/JRGIL12)
 
 ## Intereses
-Me interesa la Ciberseguridad.
-Me interesa el Desarrollo de Software y aplicaciones de escritorio.
-Me interesa mucho la Programacion Competitiva.
+Me interesa la Ciberseguridad.  
+Me interesa el Desarrollo de Software y aplicaciones de escritorio.  
+Me interesa mucho la Programacion Competitiva.  
 
 ## Aprendizaje actual
-Actualmente estoy aprendiendo:
-Web 3 (Cursando Diplomado en Desarrollo Blockchain y Web 3)
-Github (En proceso de preparación para certificación de Github foundations)
+Actualmente estoy aprendiendo:  
+Web 3 (Cursando Diplomado en Desarrollo Blockchain y Web 3)  
+Github (En proceso de preparación para certificación de Github foundations)  
 Go (intentando aprender Golang por mi cuenta)
 
 ## 🤝 ¿Colaboramos?  

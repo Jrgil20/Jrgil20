@@ -11,11 +11,12 @@ Me interesa la Ciberseguridad.
 Me interesa el Desarrollo de Software y aplicaciones de escritorio.  
 Me interesa mucho la Programacion Competitiva.  
 
-## Aprendizaje actual
-Actualmente estoy aprendiendo:  
-Web 3 (Cursando Diplomado en Desarrollo Blockchain y Web 3)  
-Github (En proceso de preparación para certificación de Github foundations)  
-Go (intentando aprender Golang por mi cuenta)
+## 📚 Aprendizaje Actual 
+| **Tema**         | **Estado**                          | **Proyecto Relacionado**       |
+|-------------------|-------------------------------------|---------------------------------|
+| Blockchain & Web3 | 🟢 En curso (Diplomado)             | Próximamente: Smart Contracts en Solidity |
+| Certificación GitHub | 🟡 En preparación (Foundations) | Mejorando la estructura de mis repositorios |
+| Golang            | 🔴 Autodidacta (Libros + documentación) | Próximamente: |
 
 ## 🤝 ¿Colaboramos?  
 Busco contribuir en proyectos **open-source** que:  

@@ -4,8 +4,6 @@
 
 Esta es mi cuenta académica. Aquí encontrarás proyectos de índole académico, notas (apuntes relevantes) y recursos de aprendizaje.
 
-Si quieren revisar mi cuenta personal pueden ir a [JRGIL12](https://github.com/JRGIL12)
-
 ## Intereses
 Me interesa la Ciberseguridad.  
 Me interesa el Desarrollo de Software y aplicaciones de escritorio.  
@@ -80,6 +78,11 @@ mis métodos de contacto se encuentran en el sig enlace: [taplink.cc/JesusGil](h
 </div>
 
 Es importante tener en cuenta que las estadísticas proporcionadas por terceros pueden no ser exactas y no reflejan necesariamente la información oficial de GitHub.
+
+---
+
+📌 **Nota:**  
+Este perfil es 100% académico. Si quieres ver mis proyectos personales o colaboraciones fuera del ámbito educativo, visita [JRGIL12](https://github.com/JRGIL12).
 
 </div>
 <!---

@@ -33,8 +33,8 @@ mis métodos de contacto se encuentran en el sig enlace: [taplink.cc/JesusGil](h
 <a href="https://t.me/Jr_Gil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=Jr_Gil&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
 </a>
-<a href="https://codepen.io/Jrgil20" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo" />
+<a href="https://www.instagram.com/jrg20_u" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=jrg20_u&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </a>
 
 

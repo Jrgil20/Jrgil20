@@ -26,22 +26,20 @@ Busco contribuir en proyectos **open-source** que tengan las siguientes caracter
 
 ## Contacto
 mis métodos de contacto se encuentran en el sig enlace: [taplink.cc/JesusGil](https://taplink.cc/JesusGil)
-<div align="center">
-  <a href="https://www.linkedin.com/in/jesus-r-gil/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Jesus%20R%20Gil&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/Jr_Gil" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=Jr_Gil&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  </a>
-  <a href="https://codepen.io/Jrgil20" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  </a>
-</div>
+
+<a href="https://www.linkedin.com/in/jesus-r-gil/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Jesus%20R%20Gil&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
+<a href="https://t.me/Jr_Gil" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=Jr_Gil&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
+</a>
+<a href="https://codepen.io/Jrgil20" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo" />
+</a>
+
 
 ## Tecnologías y herramientas
 
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
@@ -61,7 +59,6 @@ mis métodos de contacto se encuentran en el sig enlace: [taplink.cc/JesusGil](h
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-</div>
 
 
 ## Estadísticas de GitHub

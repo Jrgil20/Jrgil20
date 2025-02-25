@@ -4,45 +4,42 @@
 
 Esta es mi cuenta académica. Aquí encontrarás [Proyectos de índole académico](https://github.com/stars/Jrgil20/lists/proyectos-academicos), Notas (apuntes relevantes) y recursos de aprendizaje.
 
-Si quieren revisar mi cuenta personal pueden ir a [JRGIL12](https://github.com/JRGIL12)
-
 ## Intereses
-Me interesa la Ciberseguridad.
-Me interesa el Desarrollo de Software y aplicaciones de escritorio.
-Me interesa mucho la Programacion Competitiva.
+Me interesa la Ciberseguridad.  
+Me interesa el Desarrollo de Software y aplicaciones de escritorio.  
+Me interesa mucho la Programacion Competitiva.  
 
-## Aprendizaje actual
-Actualmente estoy aprendiendo:
-Web 3 (Cursando Diplomado en Desarrollo Blockchain y Web 3)
-Github (En proceso de preparación para certificación de Github foundations)
-Go (intentando aprender Golang por mi cuenta)
+## 📚 Aprendizaje Actual 
+| **Tema**         | **Estado**                          | **Proyecto Relacionado**       |
+|-------------------|-------------------------------------|---------------------------------|
+| Blockchain & Web3 | 🟢 En curso (Diplomado)             | Próximamente: Smart Contracts en Solidity |
+| Certificación GitHub | 🟡 En preparación (Foundations) | Mejorando la estructura de mis repositorios |
+| Golang            | 🔴 Autodidacta (Libros + documentación) | Próximamente: |
 
 ## 🤝 ¿Colaboramos?  
-Busco contribuir en proyectos **open-source** que:  
-🎯 Tengan impacto social o educativo (ej: herramientas para educación, seguridad digital, blockchain ético).  
-🛠️ Usen tecnologías como **Go, Python, Docker, TypeScript, o PostgreSQL**.  
-💡 Fomenten buenas prácticas (tests, CI/CD, documentación clara).  
+Busco contribuir en proyectos **open-source** que tengan las siguientes características:  
+🌍 **Impacto social/educativo**: Herramientas para educación digital, seguridad informática accesible, etc.    
+🛠️ **Pila tecnológica**: Go, Python, TypeScript, Docker, PostgreSQL.  
+💡 **Fomenten buenas prácticas**:  tests, CI/CD, documentación clara.  
 
 **¿Tienes una idea?** ¡Hablemos! 👇  
 
 ## Contacto
 mis métodos de contacto se encuentran en el sig enlace: [taplink.cc/JesusGil](https://taplink.cc/JesusGil)
-<div align="center">
-  <a href="https://www.linkedin.com/in/jesus-r-gil/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Jesus%20R%20Gil&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/Jr_Gil" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=Jr_Gil&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  </a>
-  <a href="https://codepen.io/Jrgil20" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  </a>
-</div>
+
+<a href="https://www.linkedin.com/in/jesus-r-gil/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Jesus%20R%20Gil&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
+<a href="https://t.me/Jr_Gil" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=Jr_Gil&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
+</a>
+<a href="https://www.instagram.com/jrg20_u" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=jrg20_u&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+</a>
+
 
 ## Tecnologías y herramientas
 
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
@@ -62,7 +59,6 @@ mis métodos de contacto se encuentran en el sig enlace: [taplink.cc/JesusGil](h
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-</div>
 
 
 ## Estadísticas de GitHub
@@ -79,6 +75,11 @@ mis métodos de contacto se encuentran en el sig enlace: [taplink.cc/JesusGil](h
 </div>
 
 Es importante tener en cuenta que las estadísticas proporcionadas por terceros pueden no ser exactas y no reflejan necesariamente la información oficial de GitHub.
+
+---
+
+📌 **Nota:**  
+Este perfil es 100% académico. Si quieres ver mis proyectos personales o colaboraciones fuera del ámbito educativo, visita [JRGIL12](https://github.com/JRGIL12).
 
 </div>
 <!---

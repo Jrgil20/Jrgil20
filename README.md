@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Jesus GIL (@JRgil20) 
 
-Esta es mi cuenta académica. Aquí encontrarás proyectos de índole académico, notas (apuntes relevantes) y recursos de aprendizaje.
+Esta es mi cuenta académica. Aquí encontrarás [Proyectos de índole académico](https://github.com/stars/Jrgil20/lists/proyectos-academicos), Notas (apuntes relevantes) y recursos de aprendizaje.
 
 Si quieren revisar mi cuenta personal pueden ir a [JRGIL12](https://github.com/JRGIL12)
 

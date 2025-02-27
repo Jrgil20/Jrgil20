@@ -79,7 +79,7 @@ Es importante tener en cuenta que las estadísticas proporcionadas por terceros 
 ---
 
 📌 **Nota:**  
-Este perfil es 100% académico. Si quieres ver mis proyectos personales o colaboraciones fuera del ámbito educativo, visita [JRGIL12](https://github.com/JRGIL12).
+Este perfil es 100% académico. Si quieres ver mis proyectos personales o colaboraciones fuera del ámbito educativo, visita [JesusRgil](https://github.com/JesusRgil).
 
 </div>
 <!---

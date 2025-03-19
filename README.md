@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Jesus GIL (@JRgil20) 
 
-Esta es mi cuenta académica. Aquí encontrarás proyectos de índole académico, notas (apuntes relevantes) y recursos de aprendizaje.
+Esta es mi cuenta académica. Aquí encontrarás proyectos de [índole académico](https://github.com/stars/Jrgil20/lists/proyectos-academicos), notas (apuntes relevantes) y recursos de aprendizaje.
 
 ## 💻 Acerca de mí
 Soy estudiante de Ingeniería Informática y me especializo en la planificación, modelado, codificación e implementación de proyectos, combinando metodologías tradicionales y Agile. Me interesa la ciberseguridad, el desarrollo de software de escritorio y la programación competitiva. Trabajo con sistemas de bajo nivel y me gusta participar en actividades de programación como Codeforces y hackatones. También participo en game jams, explorando el desarrollo de videojuegos.
@@ -10,7 +10,7 @@ Soy estudiante de Ingeniería Informática y me especializo en la planificación
 ## 📚 Aprendizaje Actual 
 | **Tema**         | **Estado**                          | **Proyecto Relacionado**       |
 |-------------------|-------------------------------------|---------------------------------|
-| Blockchain & Web3 | 🟢 En curso (Diplomado)             | Próximamente: Smart Contracts en Solidity |
+| Blockchain & Web3 | 🟢 En curso (Diplomado)             | [Speclock](https://github.com/SpecLock) |
 | Certificación GitHub | 🟡 En preparación (Foundations) | Mejorando la estructura de mis repositorios |
 | Golang            | 🔴 Autodidacta (Libros + documentación) | Próximamente: |
 

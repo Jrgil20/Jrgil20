@@ -11,7 +11,7 @@ Soy estudiante de Ingeniería Informática y me especializo en la planificación
 | **Tema**         | **Estado**                          | **Proyecto Relacionado**       |
 |-------------------|-------------------------------------|---------------------------------|
 | solidity | 🟢 En curso (con remix)             | [Speclock](https://github.com/SpecLock) |
-| Certificación GitHub | 🟡 En preparación (Foundations) | [bootcampPreaparacion](https://codigofacilito.com/eventos/github/jrgil20)|
+| Certificación GitHub | 🟡 En preparación (Foundations) | [Bootcamp Preparacion]([https://codigofacilito.com/eventos/github/jrgil20](https://github.com/Jrgil20/github-microsoft-codigo-facilito))|
 | Golang            | 🔴 Autodidacta (Libros + documentación) | [Go List](https://github.com/stars/Jrgil20/lists/go) |
 
 ## 🤝 ¿Colaboramos?  

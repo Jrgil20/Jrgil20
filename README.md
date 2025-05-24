@@ -10,7 +10,6 @@ Soy estudiante de Ingeniería Informática y me especializo en la planificación
 ## 📚 Aprendizaje Actual 
 | **Tema**         | **Estado**                          | **Proyecto Relacionado**       |
 |-------------------|-------------------------------------|---------------------------------|
-| solidity | 🟢 En curso (con remix)             | [Speclock](https://github.com/SpecLock) |
 | Certificación GitHub | 🟡 En preparación (Foundations) | [Bootcamp ExamPrep](https://github.com/Jrgil20/Bootcamp_GitHubFoundationsExamPrep_ByMicrosoftCodigoFacilito)|
 | Golang            | 🔴 Autodidacta (Libros + documentación) | [Go List](https://github.com/stars/Jrgil20/lists/go) |
 

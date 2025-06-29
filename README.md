@@ -10,7 +10,7 @@ Soy estudiante de Ingeniería Informática y me especializo en la planificación
 ## 📚 Aprendizaje Actual 
 | **Tema**         | **Estado**                          | **Proyecto Relacionado**       |
 |-------------------|-------------------------------------|---------------------------------|
-| Certificación GitHub | 🟡 En preparación (Foundations) | [BADGE](https://www.credly.com/badges/d5bba642-e9df-4598-9ff4-f0d94eddcb06)|
+| Certificación GitHub | 🟢 Logrado: Foundations | [BADGE](https://www.credly.com/badges/d5bba642-e9df-4598-9ff4-f0d94eddcb06)|
 | Golang            | 🔴 Autodidacta (Libros + documentación) | [Go List](https://github.com/stars/Jrgil20/lists/go) |
 
 ## 🤝 ¿Colaboramos?  

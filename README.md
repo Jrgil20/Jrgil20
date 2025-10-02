@@ -5,13 +5,21 @@
 Esta es mi cuenta académica. Aquí encontrarás proyectos de [índole académico](https://github.com/stars/Jrgil20/lists/proyectos-academicos), notas (apuntes relevantes) y recursos de aprendizaje ( [books](https://github.com/stars/Jrgil20/lists/books)).
 
 ## 💻 Acerca de mí
-Soy estudiante de Ingeniería Informática y me especializo en la planificación, modelado, codificación e implementación de proyectos, combinando metodologías tradicionales y Agile. Me interesa la ciberseguridad, el desarrollo de software de escritorio y la programación competitiva. Trabajo con sistemas de bajo nivel y me gusta participar en actividades de programación como Codeforces y hackatones. También participo en game jams, explorando el desarrollo de videojuegos.
+Soy estudiante de Ingeniería Informática y me especializo en la planificación, modelado, codificación e implementación de proyectos, combinando metodologías tradicionales y Agile. Actualmente soy IBM Z Student Ambassador en el corte 25-26. Me interesa la ciberseguridad, el desarrollo de software de escritorio y la programación competitiva. Trabajo con sistemas de bajo nivel y me gusta participar en actividades de programación como Codeforces y hackatones. También participo en game jams, explorando el desarrollo de videojuegos.
 
 ## 📚 Aprendizaje Actual 
 | **Tema**         | **Estado**                          | **Proyecto Relacionado**       |
 |-------------------|-------------------------------------|---------------------------------|
-| Certificación GitHub | 🟢 Logrado: Foundations | [BADGE](https://www.credly.com/badges/d5bba642-e9df-4598-9ff4-f0d94eddcb06)|
+| C#                | 🔴 Universidad                       | [C# List](https://github.com/stars/Jrgil20/lists/csharp) |
 | Golang            | 🔴 Autodidacta (Libros + documentación) | [Go List](https://github.com/stars/Jrgil20/lists/go) |
+
+## 🏆 Certificaciones y Reconocimientos
+
+<div align="center">
+  
+[![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations_Certified-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/d5bba642-e9df-4598-9ff4-f0d94eddcb06)
+
+</div>
 
 ## 🤝 ¿Colaboramos?  
 Busco contribuir en proyectos **open-source** que tengan las siguientes características:  

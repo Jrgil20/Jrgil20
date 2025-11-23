@@ -79,6 +79,8 @@ mis métodos de contacto se encuentran en el sig enlace: [taplink.cc/JesusGil](h
     />
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/d7762116-da4a-46bb-85a2-830cd446d82b.svg)](https://wakatime.com/@d7762116-da4a-46bb-85a2-830cd446d82b)
+
 Es importante tener en cuenta que las estadísticas proporcionadas por terceros pueden no ser exactas y no reflejan necesariamente la información oficial de GitHub.
 
 ---

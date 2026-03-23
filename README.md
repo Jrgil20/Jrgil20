@@ -10,7 +10,6 @@ Soy estudiante de Ingeniería Informática y me especializo en la planificación
 ## 📚 Aprendizaje Actual 
 | **Tema**         | **Estado**                          | **Proyecto Relacionado**       |
 |-------------------|-------------------------------------|---------------------------------|
-| C#                | 🔴 Universidad                       | [C# List](https://github.com/stars/Jrgil20/lists/csharp) |
 | Golang            | 🔴 Autodidacta (Libros + documentación) | [Go List](https://github.com/stars/Jrgil20/lists/go) |
 
 ## 🏆 Certificaciones y Reconocimientos

@@ -68,14 +68,9 @@ mis métodos de contacto se encuentran en el sig enlace: [taplink.cc/JesusGil](h
 ## Estadísticas de GitHub
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JRgil20&theme=midnight-purple&show_icons=1&hide_border=1" 
-             alt="JRgil20's GitHub Stats"
-             height="160"
-    /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRgil20&theme=midnight-purple&show_icons=1&hide_border=1&layout=compact"
-             alt="JRgil20's Top Languages"
-             height="160"
-    />
+  <img src="https://streak-stats.demolab.com/?user=Jrgil20&theme=midnight-purple&hide_border=true"
+       alt="GitHub Streak"
+       height="165" />
 </div>
 
 [![wakatime](https://wakatime.com/badge/user/d7762116-da4a-46bb-85a2-830cd446d82b.svg)](https://wakatime.com/@d7762116-da4a-46bb-85a2-830cd446d82b)

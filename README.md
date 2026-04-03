@@ -7,11 +7,6 @@ Esta es mi cuenta académica. Aquí encontrarás proyectos de [índole académic
 ## 💻 Acerca de mí
 Soy estudiante de Ingeniería Informática y me especializo en la planificación, modelado, codificación e implementación de proyectos, combinando metodologías tradicionales y Agile. Actualmente soy IBM Z Student Ambassador en el corte 25-26. Me interesa la ciberseguridad, el desarrollo de software de escritorio y la programación competitiva. Trabajo con sistemas de bajo nivel y me gusta participar en actividades de programación como Codeforces y hackatones. También participo en game jams, explorando el desarrollo de videojuegos.
 
-## 📚 Aprendizaje Actual 
-| **Tema**         | **Estado**                          | **Proyecto Relacionado**       |
-|-------------------|-------------------------------------|---------------------------------|
-| Golang            | 🔴 Autodidacta (Libros + documentación) | [Go List](https://github.com/stars/Jrgil20/lists/go) |
-
 ## 🏆 Certificaciones y Reconocimientos
 
 <div align="center">

@@ -16,12 +16,8 @@ Soy estudiante de Ingeniería Informática y me especializo en la planificación
 </div>
 
 ## 🤝 ¿Colaboramos?  
-Busco contribuir en proyectos **open-source** que tengan las siguientes características:  
-🌍 **Impacto social/educativo**: Herramientas para educación digital, seguridad informática accesible, etc.    
-🛠️ **Pila tecnológica**: Go, Python, TypeScript, Docker, PostgreSQL.  
-💡 **Fomenten buenas prácticas**:  tests, CI/CD, documentación clara.  
+Busco contribuir en proyectos **open-source** que tengan las siguientes 🌍 **Impacto social/educativo**: Herramientas para educación digital, seguridad informática accesible, etc.    
 
-**¿Tienes una idea?** ¡Hablemos! 👇  
 
 ## Contacto
 mis métodos de contacto se encuentran en el sig enlace: [taplink.cc/JesusGil](https://taplink.cc/JesusGil)

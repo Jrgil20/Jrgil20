@@ -14,9 +14,7 @@
   <a href="https://codeforces.com/profile/Jrgil20" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Jrgil20-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="28" alt="Codeforces" />
   </a>
-  <a href="https://taplink.cc/JesusGil" target="_blank">
-    <img src="https://img.shields.io/badge/Redes_y_Contacto-taplink.cc-10B981?style=for-the-badge&logo=linktree&logoColor=white" height="28" alt="Taplink" />
-  </a>
+
 </p>
 
 <p align="center">
@@ -38,7 +36,7 @@ Disfruto muchísimo participar y organizar eventos tech: desde **hackathones de 
 
 ## 🏆 Comunidad, Hackathones y Reconocimientos
 
-* 🤝 **Lead Organizer — GitHub Copilot Dev Days (3 Ediciones) & IBM Z Student Ambassador (2025–2026):** Organización principal de 3 ediciones de *GitHub Copilot Dev Days* (2 ediciones realizadas y una 3.ª próxima a iniciar, abierta a toda la comunidad dev), además de talleres prácticos de IA, Python, datasets y computación empresarial en la UCAB.
+* 🤝 **Lead Organizer — GitHub Copilot Dev Days (3 Ediciones) & IBM Z Student Ambassador (2025–2026):** Organización principal de 3 ediciones de *GitHub Copilot Dev Days* (abiertas a toda la comunidad dev), además de talleres prácticos de IA, Python, datasets y computación empresarial en la UCAB.
 * 🥇 **1.er Lugar — SolucionaLab Hackathon (2025):** Co-desarrollo de un agente inteligente de procesamiento de lenguaje natural (NLP) para análisis automatizado de feedback y detección de patrones críticos en tiempo real.
 * ⚡ **Top 27 LATAM — Dev3pack Global Hackathon (Solana Web3, 2026):** Creador de [Smart-Networking](https://smart-networking.vercel.app), una dApp pensada precisamente para conectar desarrolladores en eventos y comunidades tech mediante check-ins on-chain y matchmaking con IA.
 * 🧩 **Programación Competitiva (ICPC & UCAB):** Representante en la Super Regional ICPC Venezuela–Colombia y 1.er / 5.º lugar en competencias locales de la UCAB.
